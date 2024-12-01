@@ -1,0 +1,45 @@
+
+Um Sonho de Liberdade,Frank Darabont,1994,Drama
+O Poderoso Chefão,Francis Ford Coppola,1972,Crime
+Batman: O Cavaleiro das Trevas,Christopher Nolan,2008,Ação
+Pulp Fiction: Tempo de Violência,Quentin Tarantino,1994,Crime
+Forrest Gump: O Contador de Histórias,Robert Zemeckis,1994,Drama
+A Origem,Christopher Nolan,2010,Ficção Científica
+Clube da Luta,David Fincher,1999,Drama
+Matrix,Lana Wachowski & Lilly Wachowski,1999,Ficção Científica
+O Senhor dos Anéis: O Retorno do Rei,Peter Jackson,2003,Fantasia
+Star Wars: O Império Contra-Ataca,Irvin Kershner,1980,Ficção Científica
+Gladiador,Ridley Scott,2000,Ação
+Interestelar,Christopher Nolan,2014,Ficção Científica
+O Silêncio dos Inocentes,Jonathan Demme,1991,Thriller
+A Lista de Schindler,Steven Spielberg,1993,Drama
+O Poderoso Chefão II,Francis Ford Coppola,1974,Crime
+O Grande Truque,Christopher Nolan,2006,Drama
+O Rei Leão,Roger Allers & Rob Minkoff,1994,Animação
+O Resgate do Soldado Ryan,Steven Spielberg,1998,Guerra
+Jurassic Park: O Parque dos Dinossauros,Steven Spielberg,1993,Ficção Científica
+Coração Valente,Mel Gibson,1995,Guerra
+Star Wars: Uma Nova Esperança,George Lucas,1977,Ficção Científica
+Os Infiltrados,Martin Scorsese,2006,Crime
+Avatar,James Cameron,2009,Ficção Científica
+Os Vingadores,Joss Whedon,2012,Ação
+O Lobo de Wall Street,Martin Scorsese,2013,Comédia
+Django Livre,Quentin Tarantino,2012,Western
+De Volta para o Futuro,Robert Zemeckis,1985,Ficção Científica
+Whiplash: Em Busca da Perfeição,Damien Chazelle,2014,Drama
+A Rede Social,David Fincher,2010,Drama
+À Espera de um Milagre,Frank Darabont,1999,Drama
+Mad Max: Estrada da Fúria,George Miller,2015,Ação
+La La Land: Cantando Estações,Damien Chazelle,2016,Musical
+Uma Mente Brilhante,Ron Howard,2001,Drama
+12 Homens e uma Sentença,Sidney Lumet,1957,Drama
+Os Bons Companheiros,Martin Scorsese,1990,Crime
+Intocáveis,Olivier Nakache & Éric Toledano,2011,Comédia
+O Grande Hotel Budapeste,Wes Anderson,2014,Comédia
+Deadpool & Wolverine,Shawn Levy,2024,Ação,4.9
+Vingadores: Guerra Infinita,Irmãos Russo,2018,Ficção,5
+Vingadores: Ultimato,Irmãos Russo,2019,Ficção,4.75
+Divertida Mente,Pete Docter,2015,Animação,3.15
+Coraline E O Mundo Secreto,Henry Selick,2009,Terror,5
+Vingadores: Era de Ultron,Joss Whedon,2015,Ação,3.45
+Capitão América: Guerra Civil,Irmãos Russo,2016,Ação,5.0
